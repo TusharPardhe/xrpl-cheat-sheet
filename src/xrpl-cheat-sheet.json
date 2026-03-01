@@ -397,6 +397,11 @@
         },
         "APIs": [
             {
+                "name": "InsumerAPI",
+                "link": "https://insumermodel.com/developers/",
+                "description": "On-chain verification API for XRPL commerce. Verify XRP, trust line tokens (RLUSD, USDC), and NFTs across 25 endpoints. ECDSA-signed boolean responses."
+            },
+            {
                 "name": "Sologenic XRPL Trading Data",
                 "link": "https://github.com/sologenic/xrpl-trading-data/blob/main/docs.md",
                 "description": "This API is currently in BETA mode and minor changes in further releases will be compatible."
