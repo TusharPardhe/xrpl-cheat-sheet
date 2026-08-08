@@ -141,6 +141,7 @@ Name | Description
 <a href="https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c" target="_blank">Develop WebApp Using VueJS + Webpack (XRP)</a> | Guide to develop webapp with VueJS
 <a href="https://github.com/xrp-community/xrpl-tagged-address-codec" target="_blank">XRPL Tagged Address Codec</a> | Encode and Decode an XRPL account address and destination tag to/from X-formatted (tagged) address.
 <a href="https://www.npmjs.com/package/@gemwallet/api" target="_blank">GemWallet API</a> | A JavaScript/TypeScript (JS/TS) library for interacting with GemWallet and the XRP Ledger.
+<a href="https://github.com/ondexlabs/ondex-dapp-client" target="_blank">Ondex dApp Client</a> | TypeScript helpers for connecting XRPL dApps to Ondex via WalletConnect and mobile links.
 
 
 ---
@@ -315,6 +316,7 @@ Name | Description
 Name | Description 
  --- | --- 
 <a href="https://xrpl.buddy.cat" target="_blank">XRPL Buddy</a> | Public Bot for interacting with XRPL easily from inside Discord
+<a href="https://spacewatch.app" target="_blank">SpaceWatch</a> | Simple NFT & Token holder verification and role gating in Discord for XRP Ledger
 
 
 ---
@@ -424,6 +426,7 @@ Name | Description
 <a href="https://xumm.app/" target="_blank">XUMM</a> | A non custodial wallet with superpowers for the XRP Ledger.
 <a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | GemWallet is the web3 bridge between the blockchain (XRPL) and your web browser.
 <a href="https://www.sologenic.com/ecosystem/solo-wallet" target="_blank">Solo Wallet</a> | SOLO Decentralized Exchange & Wallet
+<a href="https://ondex.money/" target="_blank">Ondex</a> | A self-custodial XRP Ledger wallet for iOS and Android.
 
 
 ---
