@@ -262,6 +262,11 @@
                     "name": "GemWallet API",
                     "link": "https://www.npmjs.com/package/@gemwallet/api",
                     "description": "A JavaScript/TypeScript (JS/TS) library for interacting with GemWallet and the XRP Ledger."
+                },
+                {
+                    "name": "Ondex dApp Client",
+                    "link": "https://github.com/ondexlabs/ondex-dapp-client",
+                    "description": "TypeScript helpers for connecting XRPL dApps to Ondex via WalletConnect and mobile links."
                 }
             ],
             "Python": [
@@ -451,9 +456,9 @@
         ],
         "Miscellaneous": [
             {
-                "name":"XRPL TX JSON",
-                "link":"https://hash.xrp.fans/",
-                "description":"Get XRPL JSON data from TX hash."
+                "name": "XRPL TX JSON",
+                "link": "https://hash.xrp.fans/",
+                "description": "Get XRPL JSON data from TX hash."
             },
             {
                 "name": "XRPL.ORG Dev Tools",
@@ -646,6 +651,11 @@
                         "name": "Solo Wallet",
                         "link": "https://www.sologenic.com/ecosystem/solo-wallet",
                         "description": "SOLO Decentralized Exchange & Wallet"
+                    },
+                    {
+                        "name": "Ondex",
+                        "link": "https://ondex.money/",
+                        "description": "A self-custodial XRP Ledger wallet for iOS and Android."
                     }
                 ],
                 "Hardware": [
