@@ -552,6 +552,11 @@
                 "name": "XRPL Buddy",
                 "link": "https://xrpl.buddy.cat",
                 "description": "Public Bot for interacting with XRPL easily from inside Discord"
+            },
+            {
+                "name": "SpaceWatch",
+                "link": "https://spacewatch.app",
+                "description": "Simple NFT & Token holder verification and role gating in Discord for XRP Ledger"
             }
         ],
         "AMM": []
