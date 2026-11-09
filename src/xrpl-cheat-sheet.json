@@ -25,6 +25,11 @@
                 "description": "Your gateway to the XRP Ledger - The home of XRP"
             },
             {
+                "name": "XRPL.to",
+                "link": "https://xrpl.to/",
+                "description": "Token prices, charts, holders, trades, NFTs and accounts, with a free API"
+            },
+            {
                 "name": "XRPlorer",
                 "link": "https://xrplorer.com/",
                 "description": "Go-to resource for insights, analytics, and AML data for the XRP ledger."
