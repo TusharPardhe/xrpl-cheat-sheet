@@ -28,6 +28,7 @@ Name | Description
  --- | --- 
 <a href="https://bithomp.com/" target="_blank">Bithomp</a> | XRP explorer
 <a href="https://xrpscan.com/" target="_blank">XRPScan</a> | Your gateway to the XRP Ledger - The home of XRP
+<a href="https://xrpl.to/" target="_blank">XRPL.to</a> | Token prices, charts, holders, trades, NFTs and accounts, with a free API
 <a href="https://xrplorer.com/" target="_blank">XRPlorer</a> | Go-to resource for insights, analytics, and AML data for the XRP ledger.
 <a href="https://xrpintel.com/" target="_blank">XRP Intel</a> | XRP network monitor and analyzer.
 <a href="https://livenet.xrpl.org/" target="_blank">Livenet XRPL Org</a> | XRPL explorer
@@ -423,10 +424,11 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xumm.app/" target="_blank">XUMM</a> | A non custodial wallet with superpowers for the XRP Ledger.
+<a href="https://xaman.app/" target="_blank">Xaman</a> | A non custodial wallet with superpowers for the XRP Ledger.
 <a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | GemWallet is the web3 bridge between the blockchain (XRPL) and your web browser.
 <a href="https://www.sologenic.com/ecosystem/solo-wallet" target="_blank">Solo Wallet</a> | SOLO Decentralized Exchange & Wallet
 <a href="https://ondex.money/" target="_blank">Ondex</a> | A self-custodial XRP Ledger wallet for iOS and Android.
+<a href="https://xyra.now/" target="_blank">Xyra</a> | A Browser Based self-custodial XRPL wallet for mobile and desktop browsers
 
 
 ---
