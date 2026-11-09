@@ -643,8 +643,8 @@
             "Non-Custodial": {
                 "Software": [
                     {
-                        "name": "XUMM",
-                        "link": "https://xumm.app/",
+                        "name": "Xaman",
+                        "link": "https://xaman.app/",
                         "description": "A non custodial wallet with superpowers for the XRP Ledger."
                     },
                     {
@@ -661,6 +661,11 @@
                         "name": "Ondex",
                         "link": "https://ondex.money/",
                         "description": "A self-custodial XRP Ledger wallet for iOS and Android."
+                    },
+                    {
+                        "name": "Xyra",
+                        "link": "https://xyra.now/",
+                        "description": "A Browser Based self-custodial XRPL wallet for mobile and desktop browsers"
                     }
                 ],
                 "Hardware": [
