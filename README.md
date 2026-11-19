@@ -429,6 +429,7 @@ Name | Description
 <a href="https://www.sologenic.com/ecosystem/solo-wallet" target="_blank">Solo Wallet</a> | SOLO Decentralized Exchange & Wallet
 <a href="https://ondex.money/" target="_blank">Ondex</a> | A self-custodial XRP Ledger wallet for iOS and Android.
 <a href="https://xyra.now/" target="_blank">Xyra</a> | A Browser Based self-custodial XRPL wallet for mobile and desktop browsers
+<a href="https://ownbit.io/en/" target="_blank">Ownbit</a> | Paid self-custody wallet for iOS and Android with XRP multi-signature and QR-based offline signing; 7-day trial available.
 
 
 ---

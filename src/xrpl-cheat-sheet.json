@@ -666,6 +666,11 @@
                         "name": "Xyra",
                         "link": "https://xyra.now/",
                         "description": "A Browser Based self-custodial XRPL wallet for mobile and desktop browsers"
+                    },
+                    {
+                        "name": "Ownbit",
+                        "link": "https://ownbit.io/en/",
+                        "description": "Paid self-custody wallet for iOS and Android with XRP multi-signature and QR-based offline signing; 7-day trial available."
                     }
                 ],
                 "Hardware": [
